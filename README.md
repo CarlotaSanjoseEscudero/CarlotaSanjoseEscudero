@@ -34,14 +34,19 @@ I love exploring the connection between mathematics, data and technology, and I'
 - 🌸 BSc in Mathematics — Universitat de València
 - 🌱 Master's student at EDEM — AI, Cloud Computing & Big Data
 
+🌸 languages & tools
+୨୧ Languages I know
+
+<p>
+<img src="https://img.shields.io/badge/C%2B%2B-F8DCE7?style=flat-square&logo=cplusplus&logoColor=75566A" />
+<img src="https://img.shields.io/badge/R-E4EEDD?style=flat-square&logo=r&logoColor=54765D" />
+</p>
+
 ### 🌱 currently learning
 
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-F8DCE7?style=flat-square&logo=cplusplus&logoColor=75566A" />
-  <img src="https://img.shields.io/badge/R-E4EEDD?style=flat-square&logo=r&logoColor=54765D" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-F8DCE7?style=flat-square&logoColor=75566A" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-E4EEDD?style=flat-square&logoColor=54765D" />
-  <img src="https://img.shields.io/badge/Big_Data-F8DCE7?style=flat-square&logoColor=75566A" />
+<img src="https://img.shields.io/badge/Python-F8DCE7?style=flat-square&logo=python&logoColor=75566A" />
+<img src="https://img.shields.io/badge/Linux-E4EEDD?style=flat-square&logo=linux&logoColor=54765D" />
 </p>
 
 ### 🧁 what's growing here?
