@@ -34,8 +34,6 @@ I love exploring the connection between mathematics, data and technology, and I'
 - 🌸 BSc in Mathematics — Universitat de València
 - 🌱 Master's student at EDEM — AI, Cloud Computing & Big Data
 
-I love exploring the connection between mathematics, data and technology, and I'm excited to discover where this journey takes me. ♡
-
 ### 🌱 currently learning
 
 <p>
