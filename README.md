@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=150&section=header&text=hello,%20I'm%20a%20math%20girlie%20🌷&fontSize=28&fontColor=75566A&animation=fadeIn" width="100%" />
 
-### 🎀 mathematics graduate · Big Data, IA and Cloud master's student 🎀
+### 🎀 Mathematics Graduate · Big Data, IA and Cloud master's student 🎀
 
 *turning math into code, data & possibilities* 🌱
 
@@ -34,15 +34,17 @@ I love exploring the connection between mathematics, data and technology, and I'
 - 🌸 BSc in Mathematics — Universitat de València
 - 🌱 Master's student at EDEM — AI, Cloud Computing & Big Data
 
-🌸 languages & tools
-୨୧ Languages I know
+
+### 💻 programming languages & tools
+
+**🌷 Languages I know**
 
 <p>
 <img src="https://img.shields.io/badge/C%2B%2B-F8DCE7?style=flat-square&logo=cplusplus&logoColor=75566A" />
 <img src="https://img.shields.io/badge/R-E4EEDD?style=flat-square&logo=r&logoColor=54765D" />
 </p>
 
-### 🌱 currently learning
+**🌱 Currently learning**
 
 <p>
 <img src="https://img.shields.io/badge/Python-F8DCE7?style=flat-square&logo=python&logoColor=75566A" />
