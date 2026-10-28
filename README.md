@@ -58,11 +58,6 @@ I love exploring the connection between mathematics, data and technology, and I'
 - 🤖 AI experiments and future projects
 - 💻 Small projects, notes and things I'm learning along the way
 
-### 🎓 my background
-
-- 🌷 BSc in Mathematics — Universitat de València
-- 🌱 Currently studying AI, Cloud Computing & Big Data
-
 ### 💌 a little reminder
 
 <div align="center">
